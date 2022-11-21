@@ -81,7 +81,7 @@ public class nomer1
                 }
                 if(!isTrueDate)
                 {
-                    System.out.println(" Дурак, переделывай");
+                    System.out.println(" Неправильно");
                 }
 
                
